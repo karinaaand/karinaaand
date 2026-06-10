@@ -54,13 +54,13 @@ I love turning ideas into functional products and continuously improving my skil
 
 <p align="left">
   <a href="https://www.linkedin.com/in/karinaandriani">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" height="32" />
+    <img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:karinaandriani@mail.ugm.ac.id">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="32" height="32" />
+    <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.instagram.com/karinaaand_/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="32" height="32" />
+    <img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
