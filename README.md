@@ -50,10 +50,6 @@ I love turning ideas into functional products and continuously improving my skil
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinaaand&layout=compact&theme=transparent&hide_border=true" height="170" alt="Most Used Languages" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/karinaaand/karinaaand/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 ## 📫 Let's Connect!
 
 <p align="left">
