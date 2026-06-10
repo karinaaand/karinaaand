@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Karina Andriani
 
-🎓 Software Engineering Student at Universitas Gadjah Mada  
+<h3>🎓 Software Engineering Student at Universitas Gadjah Mada</h3>
 
 ## 👩‍💻 About Me
 
@@ -54,13 +54,13 @@ I love turning ideas into functional products and continuously improving my skil
 
 <p align="left">
   <a href="https://www.linkedin.com/in/karinaandriani">
-    <img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:karinaandriani@mail.ugm.ac.id">
-    <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.instagram.com/karinaaand_/">
-    <img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
