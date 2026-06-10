@@ -39,12 +39,6 @@ I love turning ideas into functional products and continuously improving my skil
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
-## 🚀 Featured Focus
-
-- Web development with **Next.js**, **Vue.js**, **React.js**, and **Laravel**
-- Building clean and responsive user interfaces
-- Exploring cross-platform and creative tools such as **React Native**, **Blender**, and **Unreal Engine**
-
 ## 🔥 My Stats
 
 <p align="center">
@@ -60,13 +54,13 @@ I love turning ideas into functional products and continuously improving my skil
 
 <p align="left">
   <a href="https://www.linkedin.com/in/karinaandriani">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" height="32" />
   </a>
   <a href="mailto:karinaandriani@mail.ugm.ac.id">
-    <img src="https://img.shields.io/badge/Email-%40mail.ugm.ac.id-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="32" height="32" />
   </a>
   <a href="https://www.instagram.com/karinaaand_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="32" height="32" />
   </a>
 </p>
 
