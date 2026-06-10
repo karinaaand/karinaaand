@@ -30,11 +30,11 @@ I love turning ideas into functional products and continuously improving my skil
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 **Others**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
@@ -59,17 +59,14 @@ I love turning ideas into functional products and continuously improving my skil
 ## 📫 Let's Connect!
 
 <p align="left">
-  <a href="https://github.com/karinaaand">
-    <img src="https://img.shields.io/badge/GitHub-karinaaand-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/karinaandriani">
-    <img src="https://img.shields.io/badge/LinkedIn-Karina%20Andriani-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:karinaandriani@mail.ugm.ac.id">
-    <img src="https://img.shields.io/badge/Email-karinaandriani%40mail.ugm.ac.id-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-%40mail.ugm.ac.id-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.instagram.com/karinaaand_/">
-    <img src="https://img.shields.io/badge/Instagram-karinaaand__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
