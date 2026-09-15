@@ -42,13 +42,14 @@ I love turning ideas into functional products and continuously improving my skil
 ## 🔥 My Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=karinaaand&theme=dark&hide_border=true&background=0D1117&stroke=F39C12&ring=F39C12&fire=F39C12&currStreakLabel=F39C12" alt="Karina's GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=karinaaand&theme=dark&hide_border=true" alt="Karina's GitHub Streak Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karinaaand&show_icons=true&theme=transparent&hide_border=true" height="170" alt="Karina's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinaaand&layout=compact&theme=transparent&hide_border=true" height="170" alt="Most Used Languages" />
 </p>
+
 
 ## 📫 Let's Connect!
 
