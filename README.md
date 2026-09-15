@@ -39,18 +39,6 @@ I love turning ideas into functional products and continuously improving my skil
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
-## 🔥 My Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=karinaaand&theme=dark&hide_border=true" alt="Karina's GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karinaaand&show_icons=true&theme=transparent&hide_border=true" height="170" alt="Karina's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinaaand&layout=compact&theme=transparent&hide_border=true" height="170" alt="Most Used Languages" />
-</p>
-
-
 ## 📫 Let's Connect!
 
 <p align="left">
